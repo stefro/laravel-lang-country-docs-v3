@@ -6,7 +6,7 @@ outline: deep
 
 ## Requirements
 
-For version 3.0.0 and above, you need to have at least PHP 8.1 and Laravel 10 or above.
+For version 3.x, you need to have at least PHP 8.1 and Laravel 10 or above.
 
 For older PHP and Laravel versions, please use the [V2.x](https://github.com/stefro/laravel-lang-country/tree/V2.x)
 branch. Please note that this documentation is only for the latest version of the package.
@@ -18,7 +18,7 @@ branch. Please note that this documentation is only for the latest version of th
 You can install this package via composer using this command:
 
 ``` bash
-composer require stefro/laravel-lang-country
+composer require stefro/laravel-lang-country:^3.*
 ```
 
 ### Laravel configuration file
