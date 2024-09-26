@@ -1,5 +1,13 @@
 ![laravel-langcountry.png](./public/laravel-langcountry.png)
 
+
+::: danger Legacy
+This is the documentation for Version 3.x
+
+Please visit <a href="https://stefro.github.io/laravel-lang-country/" target="_blank" rel="noreferrer">the new documentation</a> for the latest version.
+:::
+
+
 ## Introduction
 
 ::: warning Highlights

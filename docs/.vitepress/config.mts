@@ -22,10 +22,6 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '<div class="danger custom-block"><p class="custom-block-title">Legacy</p><p>This documentation is for version 3.x and is no longer maintained. <br> Please visit <a href="https://stefro.github.io/laravel-lang-country/" target="_blank" rel="noreferrer">the new documentation</a> for the latest version.</p></div>',
-        link: 'https://stefro.github.io/laravel-lang-country/'
-      },
-      {
         text: 'Getting Started',
         collapsed: false,
         items: [
